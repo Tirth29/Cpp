@@ -19,9 +19,6 @@ int main()
     player frank;
     // frank.name = "Frank";
     // frank.health=49;
-
     frank.talk("Hello");
-
-
     return 0;
 }
