@@ -1,6 +1,5 @@
 #include <iostream>
 #include "implimenting_header.h"
-
 using namespace std;
 
 int main()
